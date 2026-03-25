@@ -88,42 +88,6 @@ You can switch between `strava` and `garmin` at any time.
 - Strava backfill state is stored in `data/backfill_state_strava.json`; Garmin backfill state is stored in `data/backfill_state_garmin.json`. If a backfill hits API limits (unlikely), this state allows the daily refresh automation to pick back up where it left off.
 - The Sync action workflow includes a toggle labeled `Reset backfill cursor and re-fetch full history for the selected source` which forces a one-time full backfill. This is useful if you add/delete/modify activities which have already been loaded.
 
-## Configuration (Optional)
-
-Everything in this section is optional. Defaults work without changes.
-Base settings live in `config.yaml`, and `config.local.yaml` overrides them when present.
-
-Auth + source settings:
-- `source` (`strava` or `garmin`)
-- `strava.client_id`, `strava.client_secret`, `strava.refresh_token`, `strava.profile_url`
-- `strava.include_activity_urls` (when `true`, yearly tooltip details include links to individual Strava activities)
-- `garmin.token_store_b64`, `garmin.email`, `garmin.password`, `garmin.profile_url`
-- `garmin.include_activity_urls` (when `true`, yearly tooltip details include links to individual Garmin activities)
-- `garmin.strict_token_only` (when `true`, Garmin sync requires `garmin.token_store_b64` and does not fall back to email/password auth)
-
-Sync scope + backfill behavior:
-- `sync.start_date` (optional `YYYY-MM-DD` lower bound for history)
-- `sync.lookback_years` (optional rolling lower bound; used only when `sync.start_date` is unset)
-- `sync.recent_days` (sync recent activities even while backfilling)
-- `sync.resume_backfill` (persist cursor so backfills continue across scheduled runs)
-- `sync.per_page` (page size used when fetching provider activities; default `200`)
-- `sync.prune_deleted` (remove local activities no longer returned by the provider; pruning only happens on runs that perform a full backfill scan)
-
-Activity type behavior:
-- `activities.types` (featured order in UI, and acts as allowlist when `activities.include_all_types` is `false`)
-- `activities.include_all_types` (when `true`, include all seen sport types; when `false`, include only `activities.types`)
-- `activities.exclude_types` (explicit type exclusions, even when `include_all_types` is `true`)
-- `activities.type_aliases` (map raw provider type names to canonical type names before grouping/filtering)
-- `activities.group_aliases` (map canonical type names to explicit grouped labels)
-- `activities.group_other_types` (when `true`, non-featured types are grouped into broader buckets; repo default is `false`)
-- `activities.other_bucket` (fallback group name when grouped type matching has no hit)
-
-Display + rate-limit settings:
-- `units.distance` (`mi` or `km`)
-- `units.elevation` (`ft` or `m`)
-- `heatmaps.week_start` (`sunday` or `monday`)
-- `rate_limits.*` (Strava API pacing caps used by sync; ignored for Garmin)
-
 ## Manual Setup (No Scripts)
 
 Use this if you do not want to run `bootstrap.sh` or `setup_auth.py`.
