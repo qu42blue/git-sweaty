@@ -4015,5 +4015,18 @@
     "start_date_local": "2026-04-06T08:22:47Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-07",
+    "distance": 12932.8,
+    "elevation_gain": 53.0,
+    "id": "18018390741",
+    "moving_time": 4527.0,
+    "name": "12K Afternoon Easy Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-07T14:01:20Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

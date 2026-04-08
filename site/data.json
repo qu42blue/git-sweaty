@@ -2780,6 +2780,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18000712033",
       "year": 2026
+    },
+    {
+      "date": "2026-04-07",
+      "hour": 14,
+      "name": "12K Afternoon Easy Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18018390741",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -4965,6 +4974,15 @@
           "distance": 9354.0,
           "elevation_gain": 14.0,
           "moving_time": 3432.0
+        },
+        "2026-04-07": {
+          "activity_ids": [
+            "18018390741"
+          ],
+          "count": 1,
+          "distance": 12932.8,
+          "elevation_gain": 53.0,
+          "moving_time": 4527.0
         }
       },
       "TrailRun": {
@@ -5121,7 +5139,7 @@
       }
     }
   },
-  "generated_at": "2026-04-07T16:08:22.987115+00:00",
+  "generated_at": "2026-04-08T15:21:41.480239+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/24632115",
   "repo": "qu42blue/git-sweaty",
