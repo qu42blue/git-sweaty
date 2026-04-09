@@ -4028,5 +4028,31 @@
     "start_date_local": "2026-04-07T14:01:20Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-08",
+    "distance": 13344.5,
+    "elevation_gain": 62.0,
+    "id": "18031770347",
+    "moving_time": 3697.0,
+    "name": "13K w/ Jacob Da Runner",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-08T12:56:42Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-08",
+    "distance": 1871.0,
+    "elevation_gain": 3.0,
+    "id": "18033128396",
+    "moving_time": 444.0,
+    "name": "Sub 6min Mile Challenge",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-08T16:19:49Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
