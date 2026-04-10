@@ -2807,6 +2807,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18033128396",
       "year": 2026
+    },
+    {
+      "date": "2026-04-09",
+      "hour": 14,
+      "name": "10K Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18045859841",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5011,6 +5020,15 @@
           "distance": 15215.5,
           "elevation_gain": 65.0,
           "moving_time": 4141.0
+        },
+        "2026-04-09": {
+          "activity_ids": [
+            "18045859841"
+          ],
+          "count": 1,
+          "distance": 9723.0,
+          "elevation_gain": 42.0,
+          "moving_time": 3088.0
         }
       },
       "TrailRun": {
@@ -5167,7 +5185,7 @@
       }
     }
   },
-  "generated_at": "2026-04-09T16:16:16.176071+00:00",
+  "generated_at": "2026-04-10T15:45:58.198018+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/24632115",
   "repo": "qu42blue/git-sweaty",
