@@ -2874,10 +2874,28 @@
     {
       "date": "2026-04-13",
       "hour": 21,
-      "name": "Night Workout",
+      "name": "Jump Rope Night Workout",
       "subtype": "Workout",
       "type": "Workout",
       "url": "https://www.strava.com/activities/18099301980",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-14",
+      "hour": 20,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18113469331",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-15",
+      "hour": 8,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18119705308",
       "year": 2026
     }
   ],
@@ -5122,6 +5140,24 @@
           "distance": 21283.5,
           "elevation_gain": 0.0,
           "moving_time": 5890.0
+        },
+        "2026-04-14": {
+          "activity_ids": [
+            "18113469331"
+          ],
+          "count": 1,
+          "distance": 12880.1,
+          "elevation_gain": 0.0,
+          "moving_time": 3892.0
+        },
+        "2026-04-15": {
+          "activity_ids": [
+            "18119705308"
+          ],
+          "count": 1,
+          "distance": 11718.7,
+          "elevation_gain": 0.0,
+          "moving_time": 3481.0
         }
       },
       "TrailRun": {
@@ -5287,7 +5323,7 @@
       }
     }
   },
-  "generated_at": "2026-04-14T16:05:09.116966+00:00",
+  "generated_at": "2026-04-15T16:02:46.013544+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/24632115",
   "repo": "qu42blue/git-sweaty",

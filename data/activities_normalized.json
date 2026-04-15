@@ -4152,11 +4152,37 @@
     "elevation_gain": 0.0,
     "id": "18099301980",
     "moving_time": 359.0,
-    "name": "Night Workout",
+    "name": "Jump Rope Night Workout",
     "raw_activity_type": "Workout",
     "raw_type": "Workout",
     "start_date_local": "2026-04-13T21:32:44Z",
     "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-14",
+    "distance": 12880.1,
+    "elevation_gain": 0.0,
+    "id": "18113469331",
+    "moving_time": 3892.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-14T20:52:49Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-15",
+    "distance": 11718.7,
+    "elevation_gain": 0.0,
+    "id": "18119705308",
+    "moving_time": 3481.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-15T08:58:12Z",
+    "type": "Run",
     "year": 2026
   }
 ]
