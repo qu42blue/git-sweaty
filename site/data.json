@@ -2892,7 +2892,7 @@
     {
       "date": "2026-04-15",
       "hour": 8,
-      "name": "Morning Run",
+      "name": "Before The Flight Morning Run",
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/18119705308",
@@ -5323,7 +5323,7 @@
       }
     }
   },
-  "generated_at": "2026-04-15T16:02:46.013544+00:00",
+  "generated_at": "2026-04-16T16:19:26.889218+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/24632115",
   "repo": "qu42blue/git-sweaty",
