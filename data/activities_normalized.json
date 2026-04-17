@@ -4184,5 +4184,18 @@
     "start_date_local": "2026-04-15T08:58:12Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-16",
+    "distance": 12941.8,
+    "elevation_gain": 0.0,
+    "id": "18140448063",
+    "moving_time": 3515.0,
+    "name": "12K Night Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-16T23:18:49Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

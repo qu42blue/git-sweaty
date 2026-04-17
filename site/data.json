@@ -2897,6 +2897,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18119705308",
       "year": 2026
+    },
+    {
+      "date": "2026-04-16",
+      "hour": 23,
+      "name": "12K Night Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18140448063",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5158,6 +5167,15 @@
           "distance": 11718.7,
           "elevation_gain": 0.0,
           "moving_time": 3481.0
+        },
+        "2026-04-16": {
+          "activity_ids": [
+            "18140448063"
+          ],
+          "count": 1,
+          "distance": 12941.8,
+          "elevation_gain": 0.0,
+          "moving_time": 3515.0
         }
       },
       "TrailRun": {
@@ -5323,7 +5341,7 @@
       }
     }
   },
-  "generated_at": "2026-04-16T16:19:26.889218+00:00",
+  "generated_at": "2026-04-17T15:56:40.503494+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/24632115",
   "repo": "qu42blue/git-sweaty",
