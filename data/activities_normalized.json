@@ -4197,5 +4197,31 @@
     "start_date_local": "2026-04-16T23:18:49Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 6887.7,
+    "elevation_gain": 0.0,
+    "id": "18165969507",
+    "moving_time": 1952.0,
+    "name": "Moon Light Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-18T21:11:07Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 20982.1,
+    "elevation_gain": 141.0,
+    "id": "18173435740",
+    "moving_time": 5647.0,
+    "name": "Running through the Decades Half Marathon - Dallas 2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-19T08:04:05Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
