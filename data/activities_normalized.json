@@ -4223,5 +4223,18 @@
     "start_date_local": "2026-04-19T08:04:05Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-19",
+    "distance": 3214.0,
+    "elevation_gain": 4.0,
+    "id": "18178655765",
+    "moving_time": 1124.0,
+    "name": "Evening Shakeout Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-19T18:30:16Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
