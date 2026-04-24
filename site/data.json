@@ -2942,6 +2942,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18200954477",
       "year": 2026
+    },
+    {
+      "date": "2026-04-24",
+      "hour": 4,
+      "name": "Morning Jog",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18230488794",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-24",
+      "hour": 5,
+      "name": "32K Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18232352035",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5240,6 +5258,16 @@
           "distance": 9735.4,
           "elevation_gain": 0.0,
           "moving_time": 2636.0
+        },
+        "2026-04-24": {
+          "activity_ids": [
+            "18230488794",
+            "18232352035"
+          ],
+          "count": 2,
+          "distance": 32688.2,
+          "elevation_gain": 0.0,
+          "moving_time": 9482.0
         }
       },
       "TrailRun": {
@@ -5405,7 +5433,7 @@
       }
     }
   },
-  "generated_at": "2026-04-23T16:27:13.035416+00:00",
+  "generated_at": "2026-04-24T16:02:02.399644+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/24632115",
   "repo": "qu42blue/git-sweaty",
