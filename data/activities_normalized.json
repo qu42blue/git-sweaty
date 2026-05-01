@@ -4392,5 +4392,18 @@
     "start_date_local": "2026-04-30T21:51:47Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-01",
+    "distance": 25960.6,
+    "elevation_gain": 0.0,
+    "id": "18330912409",
+    "moving_time": 7206.0,
+    "name": "25K Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-01T18:07:50Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
