@@ -3059,6 +3059,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18344224949",
       "year": 2026
+    },
+    {
+      "date": "2026-05-03",
+      "hour": 23,
+      "name": "Night Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18360558821",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5532,6 +5541,17 @@
           "moving_time": 2275.0
         }
       },
+      "WeightTraining": {
+        "2026-05-03": {
+          "activity_ids": [
+            "18360558821"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 358.0
+        }
+      },
       "Workout": {
         "2026-02-26": {
           "activity_ids": [
@@ -5599,7 +5619,7 @@
       }
     }
   },
-  "generated_at": "2026-05-02T15:41:45.362989+00:00",
+  "generated_at": "2026-05-03T15:42:22.229469+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/24632115",
   "repo": "qu42blue/git-sweaty",
