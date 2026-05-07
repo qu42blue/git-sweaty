@@ -4457,5 +4457,18 @@
     "start_date_local": "2026-05-05T22:29:26Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-07",
+    "distance": 13219.2,
+    "elevation_gain": 0.0,
+    "id": "18413017223",
+    "moving_time": 3599.0,
+    "name": "13K - Thursday - 05-07-2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-07T22:22:13Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
