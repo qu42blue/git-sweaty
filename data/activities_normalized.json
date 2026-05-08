@@ -4470,5 +4470,18 @@
     "start_date_local": "2026-05-07T22:22:13Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-08",
+    "distance": 8713.6,
+    "elevation_gain": 0.0,
+    "id": "18425976483",
+    "moving_time": 2431.0,
+    "name": "8K - Friday - 05-08-2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-08T22:41:28Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
