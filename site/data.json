@@ -3113,6 +3113,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18439906949",
       "year": 2026
+    },
+    {
+      "date": "2026-05-10",
+      "hour": 1,
+      "name": "Boxing Workout",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/18441821134",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-10",
+      "hour": 2,
+      "name": "17K Night Run - Sunday - 05-10-2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18443127655",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5515,6 +5533,15 @@
           "distance": 8713.6,
           "elevation_gain": 0.0,
           "moving_time": 2431.0
+        },
+        "2026-05-10": {
+          "activity_ids": [
+            "18443127655"
+          ],
+          "count": 1,
+          "distance": 17292.7,
+          "elevation_gain": 0.0,
+          "moving_time": 4848.0
         }
       },
       "TrailRun": {
@@ -5705,11 +5732,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 372.0
+        },
+        "2026-05-10": {
+          "activity_ids": [
+            "18441821134"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1739.0
         }
       }
     }
   },
-  "generated_at": "2026-05-09T15:45:36.299269+00:00",
+  "generated_at": "2026-05-10T15:48:22.610327+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/24632115",
   "repo": "qu42blue/git-sweaty",

@@ -4496,5 +4496,31 @@
     "start_date_local": "2026-05-09T23:40:46Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18441821134",
+    "moving_time": 1739.0,
+    "name": "Boxing Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-10T01:24:26Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-10",
+    "distance": 17292.7,
+    "elevation_gain": 0.0,
+    "id": "18443127655",
+    "moving_time": 4848.0,
+    "name": "17K Night Run - Sunday - 05-10-2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-10T02:34:08Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
