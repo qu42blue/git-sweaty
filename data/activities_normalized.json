@@ -4522,5 +4522,57 @@
     "start_date_local": "2026-05-10T02:34:08Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18464430359",
+    "moving_time": 276.0,
+    "name": "Night Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-11T23:31:15Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-11",
+    "distance": 1135.0,
+    "elevation_gain": 0.0,
+    "id": "18464815723",
+    "moving_time": 380.0,
+    "name": "Night Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-11T23:58:17Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 12691.0,
+    "elevation_gain": 0.0,
+    "id": "18465586880",
+    "moving_time": 3506.0,
+    "name": "10K - Monday - 05-11-2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-12T00:22:03Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 1068.8,
+    "elevation_gain": 19.0,
+    "id": "18466009314",
+    "moving_time": 388.0,
+    "name": "Night Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-12T01:45:17Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
