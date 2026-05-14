@@ -4613,5 +4613,44 @@
     "start_date_local": "2026-05-13T18:51:16Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 3471.0,
+    "elevation_gain": 6.0,
+    "id": "18502607965",
+    "moving_time": 1144.0,
+    "name": "Dinner Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-14T20:00:54Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 1089.9,
+    "elevation_gain": 0.0,
+    "id": "18504546469",
+    "moving_time": 359.0,
+    "name": "Warm up",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-14T22:49:18Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18504735699",
+    "moving_time": 672.0,
+    "name": "Night Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-14T23:00:18Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
