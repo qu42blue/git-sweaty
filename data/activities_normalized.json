@@ -4652,5 +4652,70 @@
     "start_date_local": "2026-05-14T23:00:18Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 16522.1,
+    "elevation_gain": 0.0,
+    "id": "18507559414",
+    "moving_time": 4781.0,
+    "name": "16K - Thursday - 05-14-2025",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-15T01:47:29Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 1120.0,
+    "elevation_gain": 20.0,
+    "id": "18508032570",
+    "moving_time": 425.0,
+    "name": "Cool Down",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-15T03:35:49Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18513335084",
+    "moving_time": 172.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-15T16:42:29Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 3008.0,
+    "elevation_gain": 11.0,
+    "id": "18513846817",
+    "moving_time": 983.0,
+    "name": "Warm up",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-15T17:07:46Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 9914.0,
+    "elevation_gain": 99.0,
+    "id": "18514476861",
+    "moving_time": 3487.0,
+    "name": "10K - Friday - 05-15-2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-15T18:07:43Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
