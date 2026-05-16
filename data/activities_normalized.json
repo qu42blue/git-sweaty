@@ -4717,5 +4717,44 @@
     "start_date_local": "2026-05-15T18:07:43Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18527027438",
+    "moving_time": 71.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-16T19:22:41Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 1016.0,
+    "elevation_gain": 0.0,
+    "id": "18527515538",
+    "moving_time": 339.0,
+    "name": "Warm up",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-16T19:45:11Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-16",
+    "distance": 24441.1,
+    "elevation_gain": 0.0,
+    "id": "18529105531",
+    "moving_time": 6510.0,
+    "name": "24K - Saturday - 05-16-2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-16T20:07:11Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

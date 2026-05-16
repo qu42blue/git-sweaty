@@ -3266,6 +3266,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18514476861",
       "year": 2026
+    },
+    {
+      "date": "2026-05-16",
+      "hour": 19,
+      "name": "Evening Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18527027438",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-16",
+      "hour": 19,
+      "name": "Warm up",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18527515538",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-16",
+      "hour": 20,
+      "name": "24K - Saturday - 05-16-2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18529105531",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5719,6 +5746,16 @@
           "distance": 30564.1,
           "elevation_gain": 130.0,
           "moving_time": 9676.0
+        },
+        "2026-05-16": {
+          "activity_ids": [
+            "18527515538",
+            "18529105531"
+          ],
+          "count": 2,
+          "distance": 25457.1,
+          "elevation_gain": 0.0,
+          "moving_time": 6849.0
         }
       },
       "TrailRun": {
@@ -5880,6 +5917,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 172.0
+        },
+        "2026-05-16": {
+          "activity_ids": [
+            "18527027438"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 71.0
         }
       },
       "Workout": {
@@ -5967,7 +6013,7 @@
       }
     }
   },
-  "generated_at": "2026-05-15T16:48:57.730106+00:00",
+  "generated_at": "2026-05-16T15:54:29.720797+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/24632115",
   "repo": "qu42blue/git-sweaty",
