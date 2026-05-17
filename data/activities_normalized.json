@@ -4756,5 +4756,44 @@
     "start_date_local": "2026-05-16T20:07:11Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 5126.9,
+    "elevation_gain": 19.0,
+    "id": "18536600769",
+    "moving_time": 1722.0,
+    "name": "Soho House Run Club",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-17T10:05:17Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18543375643",
+    "moving_time": 184.0,
+    "name": "Night Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-17T22:39:24Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-17",
+    "distance": 2187.0,
+    "elevation_gain": 5.0,
+    "id": "18544122009",
+    "moving_time": 730.0,
+    "name": "Warm up",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-17T23:12:45Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
