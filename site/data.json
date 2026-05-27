@@ -3338,6 +3338,24 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/18568974996",
       "year": 2026
+    },
+    {
+      "date": "2026-05-27",
+      "hour": 4,
+      "name": "Morning Workout",
+      "subtype": "Workout",
+      "type": "Workout",
+      "url": "https://www.strava.com/activities/18665674749",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-27",
+      "hour": 15,
+      "name": "9K - Wednesday - 05-27-2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18671333925",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -5812,6 +5830,15 @@
           "distance": 28695.0,
           "elevation_gain": 24.0,
           "moving_time": 8481.0
+        },
+        "2026-05-27": {
+          "activity_ids": [
+            "18671333925"
+          ],
+          "count": 1,
+          "distance": 9366.5,
+          "elevation_gain": 82.0,
+          "moving_time": 3066.0
         }
       },
       "TrailRun": {
@@ -6083,11 +6110,20 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 672.0
+        },
+        "2026-05-27": {
+          "activity_ids": [
+            "18665674749"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 486.0
         }
       }
     }
   },
-  "generated_at": "2026-05-26T17:54:13.439458+00:00",
+  "generated_at": "2026-05-27T17:56:04.085730+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/24632115",
   "repo": "qu42blue/git-sweaty",

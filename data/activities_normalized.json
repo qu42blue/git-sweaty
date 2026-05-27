@@ -4821,5 +4821,31 @@
     "start_date_local": "2026-05-19T23:53:15Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18665674749",
+    "moving_time": 486.0,
+    "name": "Morning Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-05-27T04:16:59Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 9366.5,
+    "elevation_gain": 82.0,
+    "id": "18671333925",
+    "moving_time": 3066.0,
+    "name": "9K - Wednesday - 05-27-2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-27T15:13:12Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
