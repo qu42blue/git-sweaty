@@ -4847,5 +4847,18 @@
     "start_date_local": "2026-05-27T15:13:12Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-28",
+    "distance": 11808.0,
+    "elevation_gain": 81.0,
+    "id": "18687952141",
+    "moving_time": 3920.0,
+    "name": "11K - Thursday - 05-28-2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-28T19:15:37Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
