@@ -4860,5 +4860,18 @@
     "start_date_local": "2026-05-28T19:15:37Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-29",
+    "distance": 16422.0,
+    "elevation_gain": 76.0,
+    "id": "18697119875",
+    "moving_time": 5385.0,
+    "name": "16K - Friday - 05-29-2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-29T09:24:42Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
