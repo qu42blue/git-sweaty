@@ -4886,5 +4886,44 @@
     "start_date_local": "2026-05-30T09:20:02Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 13830.4,
+    "elevation_gain": 68.0,
+    "id": "18718235175",
+    "moving_time": 3875.0,
+    "name": "12K - Saturday - 05-30-2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-30T23:57:43Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 3631.9,
+    "elevation_gain": 43.0,
+    "id": "18722735120",
+    "moving_time": 1791.0,
+    "name": "BRB @ Um Tokyo",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-31T10:20:57Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-31",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18723761811",
+    "moving_time": 375.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-05-31T15:22:31Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
