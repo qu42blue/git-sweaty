@@ -4925,5 +4925,18 @@
     "start_date_local": "2026-05-31T15:22:31Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-01",
+    "distance": 14084.0,
+    "elevation_gain": 148.0,
+    "id": "18741353017",
+    "moving_time": 4536.0,
+    "name": "14K - Monday - 06-01-2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-01T20:04:02Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
