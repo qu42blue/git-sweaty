@@ -4938,5 +4938,57 @@
     "start_date_local": "2026-06-01T20:04:02Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 16761.0,
+    "elevation_gain": 121.0,
+    "id": "18749114022",
+    "moving_time": 6049.0,
+    "name": "16K - Tuesday Run - 06-02-2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-02T06:05:30Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18754622971",
+    "moving_time": 1731.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-02T20:25:32Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 1828.2,
+    "elevation_gain": 4.0,
+    "id": "18754814717",
+    "moving_time": 636.0,
+    "name": "Rainy Warm Up",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-02T20:57:24Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-02",
+    "distance": 16549.9,
+    "elevation_gain": 0.0,
+    "id": "18756128972",
+    "moving_time": 5306.0,
+    "name": "16K - Tuesday - 06-02-2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-02T21:28:21Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
