@@ -5055,5 +5055,31 @@
     "start_date_local": "2026-06-06T05:59:03Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 2019.3,
+    "elevation_gain": 10.0,
+    "id": "18816998081",
+    "moving_time": 526.0,
+    "name": "Don\u2019t be late dash",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-07T09:34:11Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 4945.0,
+    "elevation_gain": 33.0,
+    "id": "18817571630",
+    "moving_time": 2360.0,
+    "name": "SoHo House Run Club - 06-07-2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-07T10:22:23Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
