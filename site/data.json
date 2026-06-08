@@ -3518,6 +3518,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18817571630",
       "year": 2026
+    },
+    {
+      "date": "2026-06-07",
+      "hour": 23,
+      "name": "16K - Sunday - 06-07-2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18826966973",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-08",
+      "hour": 2,
+      "name": "Night Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18827606176",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-08",
+      "hour": 17,
+      "name": "5K - Road Work - 06-08-2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18833725655",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6097,12 +6124,22 @@
         "2026-06-07": {
           "activity_ids": [
             "18816998081",
-            "18817571630"
+            "18817571630",
+            "18826966973"
           ],
-          "count": 2,
-          "distance": 6964.3,
+          "count": 3,
+          "distance": 23288.0,
           "elevation_gain": 43.0,
-          "moving_time": 2886.0
+          "moving_time": 8006.0
+        },
+        "2026-06-08": {
+          "activity_ids": [
+            "18833725655"
+          ],
+          "count": 1,
+          "distance": 5380.7,
+          "elevation_gain": 32.0,
+          "moving_time": 1877.0
         }
       },
       "TrailRun": {
@@ -6327,6 +6364,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 8261.0
+        },
+        "2026-06-08": {
+          "activity_ids": [
+            "18827606176"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 294.0
         }
       },
       "Workout": {
@@ -6423,7 +6469,7 @@
       }
     }
   },
-  "generated_at": "2026-06-07T16:11:23.470863+00:00",
+  "generated_at": "2026-06-08T17:48:51.875539+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/24632115",
   "repo": "qu42blue/git-sweaty",

@@ -5081,5 +5081,44 @@
     "start_date_local": "2026-06-07T10:22:23Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-07",
+    "distance": 16323.7,
+    "elevation_gain": 0.0,
+    "id": "18826966973",
+    "moving_time": 5120.0,
+    "name": "16K - Sunday - 06-07-2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-07T23:57:49Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18827606176",
+    "moving_time": 294.0,
+    "name": "Night Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-08T02:11:49Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-08",
+    "distance": 5380.7,
+    "elevation_gain": 32.0,
+    "id": "18833725655",
+    "moving_time": 1877.0,
+    "name": "5K - Road Work - 06-08-2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-08T17:05:24Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
