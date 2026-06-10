@@ -5120,5 +5120,18 @@
     "start_date_local": "2026-06-08T17:05:24Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 22950.6,
+    "elevation_gain": 160.0,
+    "id": "18862925780",
+    "moving_time": 7505.0,
+    "name": "22K - Wednesday - 06-10-2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-10T17:26:04Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
