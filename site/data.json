@@ -3581,6 +3581,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18897908266",
       "year": 2026
+    },
+    {
+      "date": "2026-06-14",
+      "hour": 11,
+      "name": "Lunch Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/18910962768",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-14",
+      "hour": 11,
+      "name": "33K - Sunday - 06-14-2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18912076485",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6212,6 +6230,15 @@
           "distance": 18202.0,
           "elevation_gain": 106.0,
           "moving_time": 5517.0
+        },
+        "2026-06-14": {
+          "activity_ids": [
+            "18912076485"
+          ],
+          "count": 1,
+          "distance": 33257.4,
+          "elevation_gain": 237.0,
+          "moving_time": 10688.0
         }
       },
       "TrailRun": {
@@ -6445,6 +6472,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 294.0
+        },
+        "2026-06-14": {
+          "activity_ids": [
+            "18910962768"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 219.0
         }
       },
       "Workout": {
@@ -6541,7 +6577,7 @@
       }
     }
   },
-  "generated_at": "2026-06-13T16:11:41.226442+00:00",
+  "generated_at": "2026-06-14T16:18:53.895278+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/24632115",
   "repo": "qu42blue/git-sweaty",

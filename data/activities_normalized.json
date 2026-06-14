@@ -5172,5 +5172,31 @@
     "start_date_local": "2026-06-13T08:11:24Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18910962768",
+    "moving_time": 219.0,
+    "name": "Lunch Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-14T11:04:30Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-14",
+    "distance": 33257.4,
+    "elevation_gain": 237.0,
+    "id": "18912076485",
+    "moving_time": 10688.0,
+    "name": "33K - Sunday - 06-14-2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-14T11:36:20Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
