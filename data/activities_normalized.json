@@ -5211,5 +5211,57 @@
     "start_date_local": "2026-06-15T08:23:13Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18938899755",
+    "moving_time": 36.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-16T15:22:10Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 12501.0,
+    "elevation_gain": 105.0,
+    "id": "18939879083",
+    "moving_time": 4197.0,
+    "name": "12K - Tuesday - 06-16-2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-16T16:12:19Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 1058.0,
+    "elevation_gain": 4.0,
+    "id": "18940555245",
+    "moving_time": 366.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-16T18:45:32Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-16",
+    "distance": 1181.0,
+    "elevation_gain": 7.0,
+    "id": "18941753701",
+    "moving_time": 327.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-16T20:15:35Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
