@@ -3644,6 +3644,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18941753701",
       "year": 2026
+    },
+    {
+      "date": "2026-06-17",
+      "hour": 18,
+      "name": "Murasaki Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18955472955",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-17",
+      "hour": 21,
+      "name": "10K - Wednesday - 06-17-2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18958153438",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6304,6 +6322,16 @@
           "distance": 14740.0,
           "elevation_gain": 116.0,
           "moving_time": 4890.0
+        },
+        "2026-06-17": {
+          "activity_ids": [
+            "18955472955",
+            "18958153438"
+          ],
+          "count": 2,
+          "distance": 14301.5,
+          "elevation_gain": 109.0,
+          "moving_time": 5262.0
         }
       },
       "TrailRun": {
@@ -6651,7 +6679,7 @@
       }
     }
   },
-  "generated_at": "2026-06-16T18:53:19.329915+00:00",
+  "generated_at": "2026-06-17T17:48:03.491612+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/24632115",
   "repo": "qu42blue/git-sweaty",

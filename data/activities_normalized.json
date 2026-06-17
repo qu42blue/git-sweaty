@@ -5263,5 +5263,31 @@
     "start_date_local": "2026-06-16T20:15:35Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-17",
+    "distance": 3791.0,
+    "elevation_gain": 41.0,
+    "id": "18955472955",
+    "moving_time": 1782.0,
+    "name": "Murasaki Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-17T18:36:37Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-17",
+    "distance": 10510.5,
+    "elevation_gain": 68.0,
+    "id": "18958153438",
+    "moving_time": 3480.0,
+    "name": "10K - Wednesday - 06-17-2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-17T21:07:11Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
