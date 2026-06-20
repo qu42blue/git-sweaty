@@ -5341,5 +5341,31 @@
     "start_date_local": "2026-06-20T01:04:40Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-20",
+    "distance": 5704.5,
+    "elevation_gain": 32.0,
+    "id": "18990525874",
+    "moving_time": 2374.0,
+    "name": "Miles Tell The Truth - Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-20T09:05:16Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-20",
+    "distance": 11535.0,
+    "elevation_gain": 70.0,
+    "id": "18992021199",
+    "moving_time": 3907.0,
+    "name": "11K - Saturday - 06-20-2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-20T10:49:07Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
