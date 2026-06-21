@@ -5367,5 +5367,31 @@
     "start_date_local": "2026-06-20T10:49:07Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19006030548",
+    "moving_time": 453.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-21T16:44:01Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-21",
+    "distance": 27450.6,
+    "elevation_gain": 151.0,
+    "id": "19009704300",
+    "moving_time": 7713.0,
+    "name": "27K - Sunday - 06-21-2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-21T18:20:19Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
