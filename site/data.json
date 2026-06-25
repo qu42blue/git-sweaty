@@ -3765,10 +3765,28 @@
     {
       "date": "2026-06-24",
       "hour": 23,
-      "name": "Night Workout",
-      "subtype": "Workout",
-      "type": "Workout",
+      "name": "Jump Rope Workout",
+      "subtype": "Run",
+      "type": "Run",
       "url": "https://www.strava.com/activities/19050207518",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-25",
+      "hour": 13,
+      "name": "Afternoon Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19057238561",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-25",
+      "hour": 16,
+      "name": "16K - Thursday - 06-25-2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19059044242",
       "year": 2026
     }
   ],
@@ -6477,6 +6495,24 @@
           "distance": 4953.6,
           "elevation_gain": 0.0,
           "moving_time": 1967.0
+        },
+        "2026-06-24": {
+          "activity_ids": [
+            "19050207518"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 238.0
+        },
+        "2026-06-25": {
+          "activity_ids": [
+            "19059044242"
+          ],
+          "count": 1,
+          "distance": 16177.0,
+          "elevation_gain": 0.0,
+          "moving_time": 4982.0
         }
       },
       "TrailRun": {
@@ -6782,6 +6818,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 748.0
+        },
+        "2026-06-25": {
+          "activity_ids": [
+            "19057238561"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1508.0
         }
       },
       "Workout": {
@@ -6874,20 +6919,11 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 486.0
-        },
-        "2026-06-24": {
-          "activity_ids": [
-            "19050207518"
-          ],
-          "count": 1,
-          "distance": 0.0,
-          "elevation_gain": 0.0,
-          "moving_time": 238.0
         }
       }
     }
   },
-  "generated_at": "2026-06-24T17:02:06.588989+00:00",
+  "generated_at": "2026-06-25T17:08:42.905326+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/24632115",
   "repo": "qu42blue/git-sweaty",

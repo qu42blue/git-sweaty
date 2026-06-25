@@ -5439,11 +5439,37 @@
     "elevation_gain": 0.0,
     "id": "19050207518",
     "moving_time": 238.0,
-    "name": "Night Workout",
-    "raw_activity_type": "Workout",
-    "raw_type": "Workout",
+    "name": "Jump Rope Workout",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
     "start_date_local": "2026-06-24T23:53:35Z",
-    "type": "Workout",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-25",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19057238561",
+    "moving_time": 1508.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-25T13:02:23Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-25",
+    "distance": 16177.0,
+    "elevation_gain": 0.0,
+    "id": "19059044242",
+    "moving_time": 4982.0,
+    "name": "16K - Thursday - 06-25-2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-25T16:16:01Z",
+    "type": "Run",
     "year": 2026
   }
 ]
