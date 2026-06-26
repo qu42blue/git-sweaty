@@ -5471,5 +5471,57 @@
     "start_date_local": "2026-06-25T16:16:01Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-25",
+    "distance": 17453.6,
+    "elevation_gain": 0.0,
+    "id": "19064385545",
+    "moving_time": 5581.0,
+    "name": "17K - Thursday Night - 06-25-2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-25T23:47:13Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-26",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19070243891",
+    "moving_time": 1300.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-26T14:58:13Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-26",
+    "distance": 5640.9,
+    "elevation_gain": 67.0,
+    "id": "19070852231",
+    "moving_time": 2134.0,
+    "name": "5K - Running in The Rain - 06-26-2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-26T15:51:02Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-26",
+    "distance": 1214.0,
+    "elevation_gain": 3.0,
+    "id": "19071073268",
+    "moving_time": 414.0,
+    "name": "OTW to Lunch Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-26T16:53:44Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
