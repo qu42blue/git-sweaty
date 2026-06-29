@@ -5562,5 +5562,44 @@
     "start_date_local": "2026-06-28T15:12:57Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 32395.8,
+    "elevation_gain": 0.0,
+    "id": "19101994457",
+    "moving_time": 9302.0,
+    "name": "32K - Sunday - 06-28-2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-28T23:52:49Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-29",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19106588172",
+    "moving_time": 466.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-06-29T15:32:14Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-29",
+    "distance": 4016.8,
+    "elevation_gain": 0.0,
+    "id": "19107114561",
+    "moving_time": 1919.0,
+    "name": "4K - Aqua Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-29T16:12:58Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
