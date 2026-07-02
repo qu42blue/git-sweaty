@@ -5666,5 +5666,18 @@
     "start_date_local": "2026-07-01T21:15:15Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-02",
+    "distance": 13568.8,
+    "elevation_gain": 0.0,
+    "id": "19147650516",
+    "moving_time": 4114.0,
+    "name": "12K - Thursday - 07-02-2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-02T17:07:13Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

@@ -3923,6 +3923,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19136867681",
       "year": 2026
+    },
+    {
+      "date": "2026-07-02",
+      "hour": 17,
+      "name": "12K - Thursday - 07-02-2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19147650516",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6706,6 +6715,15 @@
           "distance": 14293.5,
           "elevation_gain": 111.0,
           "moving_time": 4961.0
+        },
+        "2026-07-02": {
+          "activity_ids": [
+            "19147650516"
+          ],
+          "count": 1,
+          "distance": 13568.8,
+          "elevation_gain": 0.0,
+          "moving_time": 4114.0
         }
       },
       "TrailRun": {
@@ -7161,7 +7179,7 @@
       }
     }
   },
-  "generated_at": "2026-07-01T17:09:44.281166+00:00",
+  "generated_at": "2026-07-02T16:47:00.410430+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/24632115",
   "repo": "qu42blue/git-sweaty",
