@@ -5692,5 +5692,31 @@
     "start_date_local": "2026-07-03T21:57:32Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-04",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19173884868",
+    "moving_time": 452.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-04T19:11:44Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-04",
+    "distance": 16138.0,
+    "elevation_gain": 98.0,
+    "id": "19175451349",
+    "moving_time": 5179.0,
+    "name": "16K - Saturday - 07-04-2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-04T19:26:50Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
