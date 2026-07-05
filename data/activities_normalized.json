@@ -5718,5 +5718,18 @@
     "start_date_local": "2026-07-04T19:26:50Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-05",
+    "distance": 10379.8,
+    "elevation_gain": 29.0,
+    "id": "19181753960",
+    "moving_time": 2931.0,
+    "name": "10K - Tsukuba Circuit - 07-05-2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-05T06:02:48Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

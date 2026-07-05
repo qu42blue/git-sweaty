@@ -3959,6 +3959,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19175451349",
       "year": 2026
+    },
+    {
+      "date": "2026-07-05",
+      "hour": 6,
+      "name": "10K - Tsukuba Circuit - 07-05-2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19181753960",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6760,6 +6769,15 @@
           "distance": 16138.0,
           "elevation_gain": 98.0,
           "moving_time": 5179.0
+        },
+        "2026-07-05": {
+          "activity_ids": [
+            "19181753960"
+          ],
+          "count": 1,
+          "distance": 10379.8,
+          "elevation_gain": 29.0,
+          "moving_time": 2931.0
         }
       },
       "TrailRun": {
@@ -7233,7 +7251,7 @@
       }
     }
   },
-  "generated_at": "2026-07-04T15:57:22.585268+00:00",
+  "generated_at": "2026-07-05T16:02:48.451492+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/24632115",
   "repo": "qu42blue/git-sweaty",
