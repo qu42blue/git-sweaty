@@ -3968,6 +3968,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19181753960",
       "year": 2026
+    },
+    {
+      "date": "2026-07-06",
+      "hour": 16,
+      "name": "Afternoon Weight Training",
+      "subtype": "WeightTraining",
+      "type": "WeightTraining",
+      "url": "https://www.strava.com/activities/19197536393",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-06",
+      "hour": 16,
+      "name": "20K - Aquatic Run - 07-06-26",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19198194132",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-06",
+      "hour": 18,
+      "name": "3K - Rain Run - 07-06-2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19198676054",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -6778,6 +6805,16 @@
           "distance": 10379.8,
           "elevation_gain": 29.0,
           "moving_time": 2931.0
+        },
+        "2026-07-06": {
+          "activity_ids": [
+            "19198194132",
+            "19198676054"
+          ],
+          "count": 2,
+          "distance": 24568.1,
+          "elevation_gain": 42.0,
+          "moving_time": 7323.0
         }
       },
       "TrailRun": {
@@ -7155,6 +7192,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 452.0
+        },
+        "2026-07-06": {
+          "activity_ids": [
+            "19197536393"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 89.0
         }
       },
       "Workout": {
@@ -7251,7 +7297,7 @@
       }
     }
   },
-  "generated_at": "2026-07-05T16:02:48.451492+00:00",
+  "generated_at": "2026-07-06T17:39:26.153876+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/24632115",
   "repo": "qu42blue/git-sweaty",

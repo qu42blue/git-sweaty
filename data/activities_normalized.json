@@ -5731,5 +5731,44 @@
     "start_date_local": "2026-07-05T06:02:48Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-06",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19197536393",
+    "moving_time": 89.0,
+    "name": "Afternoon Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-06T16:06:54Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-06",
+    "distance": 20981.1,
+    "elevation_gain": 0.0,
+    "id": "19198194132",
+    "moving_time": 6082.0,
+    "name": "20K - Aquatic Run - 07-06-26",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-06T16:14:18Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-06",
+    "distance": 3587.0,
+    "elevation_gain": 42.0,
+    "id": "19198676054",
+    "moving_time": 1241.0,
+    "name": "3K - Rain Run - 07-06-2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-06T18:32:10Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
