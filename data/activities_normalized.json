@@ -5770,5 +5770,18 @@
     "start_date_local": "2026-07-06T18:32:10Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-07",
+    "distance": 24461.0,
+    "elevation_gain": 150.0,
+    "id": "19214403418",
+    "moving_time": 7547.0,
+    "name": "24K - Tuesday - 07-07-2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-07T19:23:02Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
