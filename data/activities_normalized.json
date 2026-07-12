@@ -5861,5 +5861,70 @@
     "start_date_local": "2026-07-11T11:35:37Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-11",
+    "distance": 26362.8,
+    "elevation_gain": 108.0,
+    "id": "19272914130",
+    "moving_time": 8344.0,
+    "name": "25K - Saturday - 07-12-2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-11T23:57:14Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-12",
+    "distance": 2009.0,
+    "elevation_gain": 8.0,
+    "id": "19275555061",
+    "moving_time": 506.0,
+    "name": "Run to SOHO",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-12T08:48:10Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-12",
+    "distance": 3296.4,
+    "elevation_gain": 17.0,
+    "id": "19275555800",
+    "moving_time": 1305.0,
+    "name": "SOHO HOUSE RUN CLUB - 07-12-2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-12T09:06:17Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-12",
+    "distance": 3123.0,
+    "elevation_gain": 7.0,
+    "id": "19276150113",
+    "moving_time": 773.0,
+    "name": "VO2 Bingo Mingo - 07-12-2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-12T10:26:02Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-12",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19282116222",
+    "moving_time": 982.0,
+    "name": "Night Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-12T21:59:02Z",
+    "type": "WeightTraining",
+    "year": 2026
   }
 ]
