@@ -5926,5 +5926,44 @@
     "start_date_local": "2026-07-12T21:59:02Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-12",
+    "distance": 32342.0,
+    "elevation_gain": 121.0,
+    "id": "19285842487",
+    "moving_time": 11684.0,
+    "name": "32K - Sunday - 07-12-2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-12T22:26:18Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-13",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19291996891",
+    "moving_time": 118.0,
+    "name": "Evening Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-13T18:42:04Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-13",
+    "distance": 8169.0,
+    "elevation_gain": 35.0,
+    "id": "19293495158",
+    "moving_time": 3264.0,
+    "name": "8K - Rainbow Bridge Run Club - 07-13-2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-13T19:14:25Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
