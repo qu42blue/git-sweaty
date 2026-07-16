@@ -5978,5 +5978,18 @@
     "start_date_local": "2026-07-14T19:03:48Z",
     "type": "WeightTraining",
     "year": 2026
+  },
+  {
+    "date": "2026-07-15",
+    "distance": 9735.0,
+    "elevation_gain": 0.0,
+    "id": "19331981678",
+    "moving_time": 2580.0,
+    "name": "10K - Wednesday - 07-16-2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-15T21:59:51Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

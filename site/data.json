@@ -4139,6 +4139,15 @@
       "type": "WeightTraining",
       "url": "https://www.strava.com/activities/19306493614",
       "year": 2026
+    },
+    {
+      "date": "2026-07-15",
+      "hour": 21,
+      "name": "10K - Wednesday - 07-16-2026",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19331981678",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7017,6 +7026,15 @@
           "distance": 8169.0,
           "elevation_gain": 35.0,
           "moving_time": 3264.0
+        },
+        "2026-07-15": {
+          "activity_ids": [
+            "19331981678"
+          ],
+          "count": 1,
+          "distance": 9735.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2580.0
         }
       },
       "TrailRun": {
@@ -7553,7 +7571,7 @@
       }
     }
   },
-  "generated_at": "2026-07-15T16:16:36.422705+00:00",
+  "generated_at": "2026-07-16T16:13:51.915445+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/24632115",
   "repo": "qu42blue/git-sweaty",
