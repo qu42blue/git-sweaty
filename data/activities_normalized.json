@@ -6030,5 +6030,31 @@
     "start_date_local": "2026-07-16T23:58:18Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19361676288",
+    "moving_time": 471.0,
+    "name": "Morning Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-18T05:49:45Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-18",
+    "distance": 21193.0,
+    "elevation_gain": 55.0,
+    "id": "19363805397",
+    "moving_time": 5374.0,
+    "name": "21K - Red, White, and Blue Half-Marathon Race - 07-18-2026",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-18T07:01:33Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
