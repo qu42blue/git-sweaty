@@ -6082,5 +6082,44 @@
     "start_date_local": "2026-07-19T11:11:35Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-20",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19397057045",
+    "moving_time": 452.0,
+    "name": "Indoor Bike Session",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-07-20T21:18:12Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-20",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19397192487",
+    "moving_time": 718.0,
+    "name": "Night Weight Training",
+    "raw_activity_type": "WeightTraining",
+    "raw_type": "WeightTraining",
+    "start_date_local": "2026-07-20T21:30:39Z",
+    "type": "WeightTraining",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-21",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19401609377",
+    "moving_time": 723.0,
+    "name": "Morning Jump Rope Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-07-21T06:26:10Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
