@@ -6121,5 +6121,18 @@
     "start_date_local": "2026-07-21T06:26:10Z",
     "type": "Workout",
     "year": 2026
+  },
+  {
+    "date": "2026-07-22",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19417481920",
+    "moving_time": 988.0,
+    "name": "Morning Plyometrics",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-07-22T06:56:11Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
