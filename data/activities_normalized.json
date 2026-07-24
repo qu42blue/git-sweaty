@@ -6147,5 +6147,57 @@
     "start_date_local": "2026-07-22T20:15:28Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-07-23",
+    "distance": 5203.9,
+    "elevation_gain": 0.0,
+    "id": "19435141117",
+    "moving_time": 1856.0,
+    "name": "Lunch Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-23T12:06:46Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-23",
+    "distance": 8123.0,
+    "elevation_gain": 7.0,
+    "id": "19440044616",
+    "moving_time": 2832.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-23T19:57:28Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-24",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19444460847",
+    "moving_time": 1086.0,
+    "name": "Morning Plyometrics",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-07-24T06:36:47Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-24",
+    "distance": 6657.8,
+    "elevation_gain": 0.0,
+    "id": "19445068251",
+    "moving_time": 2365.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-24T07:04:42Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
