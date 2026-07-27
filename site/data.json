@@ -4314,10 +4314,28 @@
     {
       "date": "2026-07-26",
       "hour": 10,
-      "name": "Morning Workout",
+      "name": "Morning Plyometrics",
       "subtype": "Workout",
       "type": "Workout",
       "url": "https://www.strava.com/activities/19474705620",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-26",
+      "hour": 14,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19478622407",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-26",
+      "hour": 18,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19479882885",
       "year": 2026
     }
   ],
@@ -7281,6 +7299,16 @@
           "distance": 26395.3,
           "elevation_gain": 9.0,
           "moving_time": 9308.0
+        },
+        "2026-07-26": {
+          "activity_ids": [
+            "19478622407",
+            "19479882885"
+          ],
+          "count": 2,
+          "distance": 26695.3,
+          "elevation_gain": 16.0,
+          "moving_time": 9808.0
         }
       },
       "TrailRun": {
@@ -7889,7 +7917,7 @@
       }
     }
   },
-  "generated_at": "2026-07-26T15:58:15.099428+00:00",
+  "generated_at": "2026-07-27T16:54:09.707381+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/24632115",
   "repo": "qu42blue/git-sweaty",

@@ -6232,11 +6232,37 @@
     "elevation_gain": 0.0,
     "id": "19474705620",
     "moving_time": 1414.0,
-    "name": "Morning Workout",
+    "name": "Morning Plyometrics",
     "raw_activity_type": "Workout",
     "raw_type": "Workout",
     "start_date_local": "2026-07-26T10:05:58Z",
     "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 13287.5,
+    "elevation_gain": 0.0,
+    "id": "19478622407",
+    "moving_time": 4719.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-26T14:44:28Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-07-26",
+    "distance": 13407.8,
+    "elevation_gain": 16.0,
+    "id": "19479882885",
+    "moving_time": 5089.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-07-26T18:46:37Z",
+    "type": "Run",
     "year": 2026
   }
 ]
