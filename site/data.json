@@ -4688,6 +4688,33 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19855555213",
       "year": 2026
+    },
+    {
+      "date": "2026-08-23",
+      "hour": 18,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19871952467",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-23",
+      "hour": 19,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19872219743",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-23",
+      "hour": 22,
+      "name": "Night Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19873205726",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -7882,6 +7909,17 @@
           "distance": 11392.7,
           "elevation_gain": 0.0,
           "moving_time": 3643.0
+        },
+        "2026-08-23": {
+          "activity_ids": [
+            "19871952467",
+            "19872219743",
+            "19873205726"
+          ],
+          "count": 3,
+          "distance": 18974.3,
+          "elevation_gain": 3.0,
+          "moving_time": 6116.0
         }
       },
       "TrailRun": {
@@ -8499,7 +8537,7 @@
       }
     }
   },
-  "generated_at": "2026-08-23T15:16:36.525855+00:00",
+  "generated_at": "2026-08-24T15:34:06.773695+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/24632115",
   "repo": "qu42blue/git-sweaty",
