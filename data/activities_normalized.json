@@ -6810,5 +6810,57 @@
     "start_date_local": "2026-08-23T22:39:39Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-08-24",
+    "distance": 5285.0,
+    "elevation_gain": 4.0,
+    "id": "19880917987",
+    "moving_time": 1935.0,
+    "name": "Lunch Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-24T11:35:07Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-24",
+    "distance": 5137.9,
+    "elevation_gain": 11.0,
+    "id": "19882736705",
+    "moving_time": 2090.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-24T13:28:54Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-24",
+    "distance": 4965.6,
+    "elevation_gain": 3.0,
+    "id": "19884214685",
+    "moving_time": 1940.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-24T15:48:11Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-08-24",
+    "distance": 32404.0,
+    "elevation_gain": 0.0,
+    "id": "19887502363",
+    "moving_time": 11917.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-08-24T18:21:07Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
