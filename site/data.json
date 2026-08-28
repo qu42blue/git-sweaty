@@ -4832,6 +4832,51 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/19921802858",
       "year": 2026
+    },
+    {
+      "date": "2026-08-27",
+      "hour": 19,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19930268228",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-27",
+      "hour": 21,
+      "name": "Night Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19931155067",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-28",
+      "hour": 15,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19940713097",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-28",
+      "hour": 16,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19941089244",
+      "year": 2026
+    },
+    {
+      "date": "2026-08-28",
+      "hour": 17,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/19941874112",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8076,12 +8121,25 @@
         },
         "2026-08-27": {
           "activity_ids": [
-            "19921802858"
+            "19921802858",
+            "19930268228",
+            "19931155067"
           ],
-          "count": 1,
-          "distance": 4868.6,
+          "count": 3,
+          "distance": 23074.800000000003,
           "elevation_gain": 0.0,
-          "moving_time": 1958.0
+          "moving_time": 7716.0
+        },
+        "2026-08-28": {
+          "activity_ids": [
+            "19940713097",
+            "19941089244",
+            "19941874112"
+          ],
+          "count": 3,
+          "distance": 16784.3,
+          "elevation_gain": 30.0,
+          "moving_time": 6134.0
         }
       },
       "TrailRun": {
@@ -8699,7 +8757,7 @@
       }
     }
   },
-  "generated_at": "2026-08-28T00:12:25.716912+00:00",
+  "generated_at": "2026-08-28T23:49:25.703705+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/24632115",
   "repo": "qu42blue/git-sweaty",
