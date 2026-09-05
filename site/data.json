@@ -4958,6 +4958,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20027542910",
       "year": 2026
+    },
+    {
+      "date": "2026-09-04",
+      "hour": 18,
+      "name": "Evening Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20040169313",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-05",
+      "hour": 6,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20047104181",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8268,6 +8286,15 @@
           "distance": 8776.0,
           "elevation_gain": 76.0,
           "moving_time": 2867.0
+        },
+        "2026-09-05": {
+          "activity_ids": [
+            "20047104181"
+          ],
+          "count": 1,
+          "distance": 18338.0,
+          "elevation_gain": 12.0,
+          "moving_time": 6746.0
         }
       },
       "TrailRun": {
@@ -8382,6 +8409,15 @@
           "distance": 2590.7,
           "elevation_gain": 0.0,
           "moving_time": 2301.0
+        },
+        "2026-09-04": {
+          "activity_ids": [
+            "20040169313"
+          ],
+          "count": 1,
+          "distance": 3115.8,
+          "elevation_gain": 0.0,
+          "moving_time": 3385.0
         }
       },
       "WeightTraining": {
@@ -8903,7 +8939,7 @@
       }
     }
   },
-  "generated_at": "2026-09-04T18:00:13.535088+00:00",
+  "generated_at": "2026-09-05T17:04:17.233745+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/24632115",
   "repo": "qu42blue/git-sweaty",
