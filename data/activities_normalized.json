@@ -7252,5 +7252,44 @@
     "start_date_local": "2026-09-09T07:35:22Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-09-09",
+    "distance": 10567.0,
+    "elevation_gain": 80.0,
+    "id": "20107152003",
+    "moving_time": 5556.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-09T17:20:13Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-10",
+    "distance": 7678.0,
+    "elevation_gain": 29.0,
+    "id": "20112004087",
+    "moving_time": 2540.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-10T06:26:49Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-10",
+    "distance": 3327.0,
+    "elevation_gain": 17.0,
+    "id": "20112214171",
+    "moving_time": 1082.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-10T07:27:09Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

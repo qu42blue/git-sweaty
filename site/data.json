@@ -5021,6 +5021,33 @@
       "type": "Walk",
       "url": "https://www.strava.com/activities/20103159137",
       "year": 2026
+    },
+    {
+      "date": "2026-09-09",
+      "hour": 17,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20107152003",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-10",
+      "hour": 6,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20112004087",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-10",
+      "hour": 7,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20112214171",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8360,6 +8387,25 @@
           "distance": 9776.4,
           "elevation_gain": 34.0,
           "moving_time": 3506.0
+        },
+        "2026-09-09": {
+          "activity_ids": [
+            "20107152003"
+          ],
+          "count": 1,
+          "distance": 10567.0,
+          "elevation_gain": 80.0,
+          "moving_time": 5556.0
+        },
+        "2026-09-10": {
+          "activity_ids": [
+            "20112004087",
+            "20112214171"
+          ],
+          "count": 2,
+          "distance": 11005.0,
+          "elevation_gain": 46.0,
+          "moving_time": 3622.0
         }
       },
       "TrailRun": {
@@ -9031,7 +9077,7 @@
       }
     }
   },
-  "generated_at": "2026-09-09T18:15:24.199207+00:00",
+  "generated_at": "2026-09-10T17:59:58.574014+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/24632115",
   "repo": "qu42blue/git-sweaty",
