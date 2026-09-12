@@ -7304,5 +7304,44 @@
     "start_date_local": "2026-09-10T14:06:06Z",
     "type": "Walk",
     "year": 2026
+  },
+  {
+    "date": "2026-09-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20137091389",
+    "moving_time": 576.0,
+    "name": "Boxing Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-09-11T20:01:09Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-11",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "20138217967",
+    "moving_time": 3007.0,
+    "name": "Boxing Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-09-11T21:24:49Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-11",
+    "distance": 2407.3,
+    "elevation_gain": 20.0,
+    "id": "20138217974",
+    "moving_time": 857.0,
+    "name": "Night Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-09-11T23:43:19Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
