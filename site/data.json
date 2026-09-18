@@ -5138,6 +5138,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20214691167",
       "year": 2026
+    },
+    {
+      "date": "2026-09-17",
+      "hour": 16,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20224000231",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -8718,6 +8727,15 @@
           "distance": 2219.5,
           "elevation_gain": 0.0,
           "moving_time": 4084.0
+        },
+        "2026-09-17": {
+          "activity_ids": [
+            "20224000231"
+          ],
+          "count": 1,
+          "distance": 2320.4,
+          "elevation_gain": 0.0,
+          "moving_time": 3057.0
         }
       },
       "WeightTraining": {
@@ -9249,7 +9267,7 @@
       }
     }
   },
-  "generated_at": "2026-09-17T18:45:09.031964+00:00",
+  "generated_at": "2026-09-18T18:01:18.988216+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/24632115",
   "repo": "qu42blue/git-sweaty",
