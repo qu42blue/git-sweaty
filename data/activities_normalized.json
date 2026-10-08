@@ -7720,5 +7720,31 @@
     "start_date_local": "2026-10-06T17:03:39Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-07",
+    "distance": 4873.5,
+    "elevation_gain": 28.0,
+    "id": "20495008304",
+    "moving_time": 2194.0,
+    "name": "Shin\u2019s First 5K",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-07T16:25:40Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-07",
+    "distance": 9672.6,
+    "elevation_gain": 0.0,
+    "id": "20496567293",
+    "moving_time": 3622.0,
+    "name": "Evening Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-07T18:45:02Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
