@@ -7746,5 +7746,18 @@
     "start_date_local": "2026-10-07T18:45:02Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-09",
+    "distance": 11576.0,
+    "elevation_gain": 0.0,
+    "id": "20519139965",
+    "moving_time": 1969.0,
+    "name": "Bacino di San Giacomo Recovery Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-09T13:58:52Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
