@@ -7772,5 +7772,31 @@
     "start_date_local": "2026-10-09T17:35:34Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-10",
+    "distance": 8751.0,
+    "elevation_gain": 0.0,
+    "id": "20533171236",
+    "moving_time": 1480.0,
+    "name": "Lake View Recovery Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-10T15:34:40Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-10",
+    "distance": 14968.0,
+    "elevation_gain": 0.0,
+    "id": "20533453854",
+    "moving_time": 2150.0,
+    "name": "Moraine Lake Interval Ride",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-10-10T16:09:33Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
