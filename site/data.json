@@ -5444,6 +5444,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20588487785",
       "year": 2026
+    },
+    {
+      "date": "2026-10-15",
+      "hour": 17,
+      "name": "Afternoon Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20603368848",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-16",
+      "hour": 10,
+      "name": "Mission America - Texas Half Marathon",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/20611829179",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9035,6 +9053,24 @@
           "distance": 29141.0,
           "elevation_gain": 0.0,
           "moving_time": 13223.0
+        },
+        "2026-10-15": {
+          "activity_ids": [
+            "20603368848"
+          ],
+          "count": 1,
+          "distance": 29307.1,
+          "elevation_gain": 0.0,
+          "moving_time": 10476.0
+        },
+        "2026-10-16": {
+          "activity_ids": [
+            "20611829179"
+          ],
+          "count": 1,
+          "distance": 21262.0,
+          "elevation_gain": 173.0,
+          "moving_time": 7640.0
         }
       },
       "TrailRun": {
@@ -9797,7 +9833,7 @@
       }
     }
   },
-  "generated_at": "2026-10-15T18:50:33.209697+00:00",
+  "generated_at": "2026-10-16T18:34:49.315165+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/24632115",
   "repo": "qu42blue/git-sweaty",

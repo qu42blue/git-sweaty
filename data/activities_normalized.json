@@ -7863,5 +7863,31 @@
     "start_date_local": "2026-10-14T11:45:00Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-10-15",
+    "distance": 29307.1,
+    "elevation_gain": 0.0,
+    "id": "20603368848",
+    "moving_time": 10476.0,
+    "name": "Afternoon Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-15T17:35:58Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-16",
+    "distance": 21262.0,
+    "elevation_gain": 173.0,
+    "id": "20611829179",
+    "moving_time": 7640.0,
+    "name": "Mission America - Texas Half Marathon",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-10-16T10:34:00Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
