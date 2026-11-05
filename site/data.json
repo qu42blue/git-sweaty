@@ -5606,6 +5606,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/20820385376",
       "year": 2026
+    },
+    {
+      "date": "2026-11-05",
+      "hour": 11,
+      "name": "Lunch Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/20872740838",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -9564,6 +9573,15 @@
           "distance": 882.8,
           "elevation_gain": 0.0,
           "moving_time": 1849.0
+        },
+        "2026-11-05": {
+          "activity_ids": [
+            "20872740838"
+          ],
+          "count": 1,
+          "distance": 812.6,
+          "elevation_gain": 0.0,
+          "moving_time": 911.0
         }
       },
       "WeightTraining": {
@@ -10113,7 +10131,7 @@
       }
     }
   },
-  "generated_at": "2026-11-04T21:01:39.240879+00:00",
+  "generated_at": "2026-11-05T21:18:36.415330+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/24632115",
   "repo": "qu42blue/git-sweaty",
